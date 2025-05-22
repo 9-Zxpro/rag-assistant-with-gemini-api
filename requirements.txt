@@ -1,0 +1,4 @@
+google-genai
+chromadb
+
+# Gemini API
